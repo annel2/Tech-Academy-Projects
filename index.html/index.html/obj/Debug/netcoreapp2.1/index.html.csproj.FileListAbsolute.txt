@@ -1,0 +1,14 @@
+C:\Users\saigo\Documents\GitHub\Tech-Academy-Projects\index.html\index.html\bin\Debug\netcoreapp2.1\index.html.deps.json
+C:\Users\saigo\Documents\GitHub\Tech-Academy-Projects\index.html\index.html\bin\Debug\netcoreapp2.1\index.html.runtimeconfig.json
+C:\Users\saigo\Documents\GitHub\Tech-Academy-Projects\index.html\index.html\bin\Debug\netcoreapp2.1\index.html.runtimeconfig.dev.json
+C:\Users\saigo\Documents\GitHub\Tech-Academy-Projects\index.html\index.html\bin\Debug\netcoreapp2.1\index.html.dll
+C:\Users\saigo\Documents\GitHub\Tech-Academy-Projects\index.html\index.html\bin\Debug\netcoreapp2.1\index.html.pdb
+C:\Users\saigo\Documents\GitHub\Tech-Academy-Projects\index.html\index.html\obj\Debug\netcoreapp2.1\index.html.csprojAssemblyReference.cache
+C:\Users\saigo\Documents\GitHub\Tech-Academy-Projects\index.html\index.html\obj\Debug\netcoreapp2.1\index.html.csproj.CoreCompileInputs.cache
+C:\Users\saigo\Documents\GitHub\Tech-Academy-Projects\index.html\index.html\obj\Debug\netcoreapp2.1\index.html.RazorAssemblyInfo.cache
+C:\Users\saigo\Documents\GitHub\Tech-Academy-Projects\index.html\index.html\obj\Debug\netcoreapp2.1\index.html.RazorAssemblyInfo.cs
+C:\Users\saigo\Documents\GitHub\Tech-Academy-Projects\index.html\index.html\obj\Debug\netcoreapp2.1\index.html.AssemblyInfoInputs.cache
+C:\Users\saigo\Documents\GitHub\Tech-Academy-Projects\index.html\index.html\obj\Debug\netcoreapp2.1\index.html.AssemblyInfo.cs
+C:\Users\saigo\Documents\GitHub\Tech-Academy-Projects\index.html\index.html\obj\Debug\netcoreapp2.1\index.html.RazorTargetAssemblyInfo.cache
+C:\Users\saigo\Documents\GitHub\Tech-Academy-Projects\index.html\index.html\obj\Debug\netcoreapp2.1\index.html.dll
+C:\Users\saigo\Documents\GitHub\Tech-Academy-Projects\index.html\index.html\obj\Debug\netcoreapp2.1\index.html.pdb
